@@ -1,1 +1,0 @@
-assignment on static libraries
