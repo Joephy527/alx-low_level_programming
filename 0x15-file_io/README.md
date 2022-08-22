@@ -1,8 +1,8 @@
-## Assignments On Files-I/O
+# Assignments On Files-I/O
 
 This Directory Includes All The Assignments That Were Given On Files I/O. All Projects Were Done During Full Stack Software Engineering Studies Provided by ALX and Holberton School.
 
-# List Of All Projects
+## List Of All Projects
 
 All of the following files are programs written in C:
 
