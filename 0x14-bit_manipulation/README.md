@@ -1,4 +1,4 @@
-## Assignments ON Bit Manipulation
+## Assignments On Bit Manipulation
 
 This Directory Includes All The Assignments That Were Given On Bit Manipulation.
 All Projects Were Done During Full Stack Software Engineering Studies Provided by ALX and Holberton School.
