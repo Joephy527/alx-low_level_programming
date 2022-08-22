@@ -1,9 +1,9 @@
-## Assignments On Bit Manipulation
+# Assignments On Bit Manipulation
 
 This Directory Includes All The Assignments That Were Given On Bit Manipulation.
 All Projects Were Done During Full Stack Software Engineering Studies Provided by ALX and Holberton School.
 
-# List Of All Projects
+## List Of All Projects
 
 All of the following files are scripts and programs written in C:
 
