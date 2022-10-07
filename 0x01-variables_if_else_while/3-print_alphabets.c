@@ -2,7 +2,7 @@
 
 /**
  * main -  prints the alphabet in lowercase, and then in uppercase.
- * Retutn: 0
+ * Return: 0
  */
 
 int main(void)
@@ -22,5 +22,5 @@ int main(void)
 		x++;
 	}
 	putchar('\n');
-	return(0);
+	return (0);
 }
