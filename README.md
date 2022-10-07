@@ -1,6 +1,6 @@
 # Low-level programming & Algorithm
 
-Module of **Low-level programming** and **algorithm**, carried out during **Full Stack Software Engineering studies** at **[Holberton School](https://www.holbertonschool.com/)**.
+Module of **Low-level programming** and **algorithm**, carried out during **Full Stack Software Engineering studies** at **ALX and Holberton School**.
 
 ## Projects
 All of the following folders are projects done during the studies:
