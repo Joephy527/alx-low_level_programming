@@ -3,9 +3,10 @@
 #include <stdio.h>
 
 /*
- *main - print whether the number stored in n is positive or negative.
- *return - 0 (success)
+ * main - print whether the number stored in n is positive or negative.
+ * return - 0 
  */
+
 int main(void)
 {
 	int n;
