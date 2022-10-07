@@ -2,9 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 
-/*
+/**
  * main - print whether the number stored in n is positive or negative.
- * return - 0 
+ * return: always 0 (success)
  */
 
 int main(void)
