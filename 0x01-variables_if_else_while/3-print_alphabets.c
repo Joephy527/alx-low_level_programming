@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-/*
+/**
  * main -  prints the alphabet in lowercase, and then in uppercase.
- * retutn - 0
+ * Retutn: 0
  */
 
 int main(void)
