@@ -4,7 +4,7 @@
 
 /**
  * main - print whether the number stored in n is positive or negative.
- * return: always 0 (success)
+ * Return - 0
  */
 
 int main(void)
