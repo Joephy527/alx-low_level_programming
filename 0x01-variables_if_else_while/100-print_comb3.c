@@ -1,36 +1,33 @@
 #include <stdio.h>
 
 /**
- * main - Prints numbers between 00 to 89.
- *
- * Return: Always 0 (Success)
+ * main -  prints all possible different combinations of two digits.
+ * Return: 0
  */
+
 int main(void)
 {
-	int i, e;
+	int x = 48;
+	int y;
 
-	i = 48;
-	e = 48;
-
-	while (e < 58)
+	while (x < 58)
 	{
-		i = 48;
-		while (i < 58)
+		y = 49;
+		while (y < 58)
 		{
-			if (e != i && e < i)
+			if (y > x)
 			{
-				putchar(e);
-				putchar(i);
-				if (i == 57 && e == 56)
+				putchar(x);
+				putchar(y);
+				if (x != 56 || y != 57)
 				{
-					break;
+					putchar(44);
 				}
-				putchar(',');
-				putchar(' ');
+				putchar(32);
 			}
-			i++;
+			y++;
 		}
-		e++;
+		x++;
 	}
 	putchar('\n');
 	return (0);
