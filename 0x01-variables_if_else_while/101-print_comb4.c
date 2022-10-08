@@ -26,10 +26,11 @@ int main(void)
 						putchar(x);
 						putchar(y);
 						putchar(z);
-					if (x != 55 || y != 56)
+					if (x == 55 && y == 56)
 					{
-						putchar(44);
+						break;
 					}
+						putchar(44);
 						putchar(32);
 					}
 					z++;

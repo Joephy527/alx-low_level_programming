@@ -19,10 +19,11 @@ int main(void)
 			{
 				putchar(x);
 				putchar(y);
-				if (x != 56 || y != 57)
+				if (x == 56 && y == 57)
 				{
-					putchar(44);
+					break;
 				}
+				putchar(44);
 				putchar(32);
 			}
 			y++;
